@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-b37ed1bcffe07c26956041e82369d69323b0fa92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-2772f9cc9c9defd5e50a72f91d90e4bb4ea4ccfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-04bc49a8d6939cd18870ea30ff2e37ffa9fc12ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-f121d7211e05859af029fafcde9910df32b00650.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-754bb08331c6a14a5b3d8752b7d6e8ef37e1e745.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-a58a4b0964f689fdbce4676143e0194ca654984a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-de0d6b2beffd120d1226025db2982d98664ae3d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-c2abaa7dbdb1a1b74cd6c8ce71b8baafb2a8a74e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-7460c137169b684781293135bf2fb54294cc667d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-9ff0b95b4c0dcc7803a5976e94fd7536bb8ce0bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-006bce5e9f0e779b46ab9ccf015b33198bb97406.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-cff809e6240271b5b4356c427506690036f040f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-b2509c220abcb68cc7ebb6499cdc0d525dab65df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-0c05cff01908e2f17b7879eb94a54d574aa497ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-e1e12c66573cfc9af57d20efe9954bf96d108ec4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-467fea089a9f2a29015f3d43f3b5c2a0c81a9b41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-6e8301560bb5298d46f18a7dbe2d5ed69e7d3fc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-7342da1d3e950812c2a5adfc3c149a36d8f616de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-0ccbbd9f4744e23dca8f43ad0432a51c2d02163b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-c0f83ebc1552e98392732ad3070a74e1497088b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-cd258143faa271f7a3c26650b5357ae899f739c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-9b033c7daac1fc2c7dc793f62fc506438459c34c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-6decba744ae1a14fd9f602756696e37f8b20bf5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-20bdd2a6c1fa85135a29e5c05f15e02822783fa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-cc8ee4e740cf35ce2d917dd26fed3a6417098e07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-b4f01082859313016fb8ee4db82685a7d08a13d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-cfdc71526d8f03a9306681d6490ad69e1785d7ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-46ee792ea34d9be16226ffefc966b955b0f1c15c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-c15a62fc3a9e354ed21b3dd092af99d4bf0d3b36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-3bd0887eb6e2437904ad91000721e454a5912068.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Elliot\AndroidStudioProjects\BluetoothChatGMaps\Application\build\intermediates\pre-dexed\debug\classes-b405e8f41d14a6bcdee73e26ce11c61b3e54788a.jar" />
+    </item>
+
+</items>
