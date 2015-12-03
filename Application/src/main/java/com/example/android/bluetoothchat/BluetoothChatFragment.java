@@ -243,7 +243,7 @@ public class BluetoothChatFragment extends Fragment {
         if (message.length() > 0) {
             // Get the message bytes and tell the BluetoothChatService to write
             Charset characterSet = Charset.forName("US-ASCII");
-            String newmessage= message+"e";
+            String newmessage= message;
             byte[] send = newmessage.getBytes(characterSet);
 
             mChatService.write(send);
